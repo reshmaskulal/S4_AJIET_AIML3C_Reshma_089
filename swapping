@@ -1,0 +1,13 @@
+class main{
+public static void main(String[] args){
+int x;
+int y;
+int q;
+int r;
+x=20;
+y=3;
+q=x/y;
+r=x%y;
+System.out.println("q="+q);
+System.out.println("r="+r);
+}}
